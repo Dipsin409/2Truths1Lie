@@ -1,0 +1,32 @@
+h3 {
+    color: blue;
+}
+
+h1 {
+    color: lightgreen;
+    text-align: center;
+}
+
+p {
+    color: red;
+}
+
+#main-content{
+ border: solid thick black;
+ border-radius: 15px 5px 15px 5px;
+ border-color: grey;
+}
+
+.flex-display{
+    display: flex;
+}
+
+.factoid {
+    padding: 1em;
+    border: solid thin black;
+    border-radius: 10px;
+    background-color: rgba(211, 211, 211, 0.733);
+    width: 33%;
+
+}
+
